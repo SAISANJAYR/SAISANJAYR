@@ -11,7 +11,7 @@
 <p>
   <a href="https://portfolio-brown-ten-9rfwlgg9hz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Portfolio"/></a>
   <a href="https://portfolio-brown-ten-9rfwlgg9hz.vercel.app/SaiSanjay_R_Resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-0D1117?style=for-the-badge&logo=readdotcv&logoColor=38BDF8" alt="Resume"/></a>
-  <a href="https://www.linkedin.com/in/saisanjay-r"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/saisanjay-r-79513132a"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/></a>
   <a href="mailto:saisanjay024@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Gmail"/></a>
   <a href="https://huggingface.co/spaces/rsd-06/PRRegressionAuditEnv"><img src="https://img.shields.io/badge/Hugging%20Face-0D1117?style=for-the-badge&logo=huggingface&logoColor=38BDF8" alt="Hugging Face"/></a>
 </p>
